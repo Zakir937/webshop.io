@@ -1,0 +1,143 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+	
+}
+
+.banner-section{
+	background-image:url("img/banner4.jpg");
+	background-size:cover;
+	background-position:center;
+	background-repeat:no-repeat;
+	height:100vh;
+	
+	
+}
+.banner-section .container .row{
+	height:100%;
+	display:flex;
+    align-items:center;
+	justify-content:start;
+
+}
+.banner-text{
+	color:#ffff;
+	
+}
+
+.banner-text h5{
+font-family:'Poppins', sans-serif;
+padding-top:12px;
+padding-bottom:12px;
+
+}
+.banner-text h5 .bt-h5color{
+	color:#d40b09;
+	background:#ffff;
+	border-radius:13px;
+	padding-left:4px;
+	padding-right:4px;
+}
+
+.banner-text .bt-h1shadow h1{
+
+font-weight:900;
+font-size:50px;
+font-family: 'Cairo', sans-serif;
+margin-bottom:13px;
+margin-top:13px;
+
+}
+
+.bt-h1shadow{
+	box-shadow:0px 0px 10px rgba(0,0,0,3);
+	width:60%;
+    padding-left:16px;
+}
+
+
+	
+.bal a{
+	display:inline-block;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-size:30px;
+	font-family: 'Teko', sans-serif;
+	color:#ffff;
+	background-color:#ff1515;
+	border-radius:25px;
+	padding-top:10px;
+	padding-left:10px;
+	padding-bottom:3px;
+	padding-right:10px;
+	margin-top:25px;
+	
+	
+	
+}
+
+.bal a i{
+	
+	
+	font-size:21px;
+	padding-right:10px;
+		padding-bottom:5px;
+}
+
+.banner-photo{
+	
+	border:1px solid #ffff;
+}
+
+.banner-right-content{
+	color:#ffff;
+	text-align:left;
+}
+
+.banner-right-content .banner-rt1{
+	text-transform:capitalize;
+	padding-top:13px;
+	padding-bottom:13px;
+}
+
+.banner-right-content .banner-rt1 i{
+	margin-right:15px;
+}
+
+.banner-right-content .banner-rt2 {
+	text-transform:capitalize;
+	
+	
+}
+
+.banner-right-content .banner-rt2 .tube{
+	text-transform:capitalize;
+	color:red;
+	
+	
+}
+
+.banner-right-content .banner-rt2 i{
+	margin-right:13px;
+}
+
+.banner-right-content .banner-rt3 {
+	text-transform:capitalize;
+	padding-top:13px;
+	padding-bottom:13px;
+	
+	
+}
+
+.banner-right-content .banner-rt3 h2 .fb {
+	color:#2121ff;
+	
+	
+}
+
+
+.banner-right-content .banner-rt3 i{
+	margin-right:13px;
+	padding-right:10px;
+}
